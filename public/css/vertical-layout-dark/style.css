@@ -23855,28 +23855,28 @@ input:focus {
 
 @font-face {
     font-family: "Kanit";
-    src: url("../../fonts/Kanit/Kanit-Bold.ttf") format("truetype");
+    src: url("../../fonts/Kanit/Kanit-Light.ttf") format("truetype");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Kanit";
-    src: url("../../fonts/Kanit/Kanit-Medium.ttf") format("truetype");
+    src: url("../../fonts/Kanit/Kanit-Light.ttf") format("truetype");
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Kanit";
-    src: url("../../fonts/Kanit/Kanit-Regular.ttf") format("truetype");
+    src: url("../../fonts/Kanit/Kanit-Light.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Kanit";
-    src: url("../../fonts/Kanit/Kanit-Black.ttf") format("truetype");
+    src: url("../../fonts/Kanit/Kanit-Light.ttf") format("truetype");
     font-weight: 900;
     font-style: normal;
 }

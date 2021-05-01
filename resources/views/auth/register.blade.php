@@ -14,7 +14,7 @@
     <style>
         @font-face {
             font-family: myFirstFont;
-            src: url(fonts/Kanit-Regular.ttf);
+            src: url(fonts/Kanit-Light.ttf);
         }
 
         body {
